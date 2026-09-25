@@ -7,5 +7,8 @@
 + This was provided with my temporary access to COMSOLE: http://localhost:2046/webbridge/comsol
 
 
+### IMPORTANT:
++ if you want to access the links successfully, you **MUST** download my files and keep them open **SIMULTANEOUSLY**.
+
 Acknowledgements:
 Thank you very much to COMSOLE, this has been quite a knowledgable experience. I liked your video-walkthrough tutorials very much.😊
