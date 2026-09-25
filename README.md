@@ -9,3 +9,39 @@
 
 Acknowledgements:
 Thank you very much to COMSOLE, this has been quite a knowledgable experience. I liked your video-walkthrough tutorials very much.😊
+
+
+# Dipole Antenna Experience
+
+One of the simpler antennas.
+
+Some equations to note beforehand, at least in this case, are:
+
+$$
+L = \frac{\lambda}{4}
+$$
+
+as well as:
+
+$$
+f = \frac{c}{\lambda}
+$$
+
+where:
+
+- $L$ = antenna length
+- $\lambda$ = wavelength
+- $f$ = frequency
+- $c$ = speed of light
+
+An important relationship to keep in mind is:
+
+$$
+\text{Higher } f \sim \text{smaller skin depth } \delta
+$$
+
+In other words:
+
+$$
+f \uparrow \quad \Rightarrow \quad \delta \downarrow
+$$
