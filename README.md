@@ -5,6 +5,8 @@
 **Project 2:** (Based on tutorial)
 + Dipole Antenna experience. One of the simpler antennas. Some equations to note before hand... at least in this case is $L = \frac{\lambda}{4}$, as well as $f = \frac{c}{\lambda}$ --> high $f$ ~ tiny skin depth $\delta$.
 + **APP 2**: This was provided with my temporary access to COMSOLE: http://localhost:2046/webbridge/comsol
+<img width="702" height="931" alt="Screenshot 2026-09-25 034308" src="https://github.com/user-attachments/assets/a274676f-b13a-4d6a-9f07-1c75859485f3" />
+
 
 **Project 3:** (Original - NOT based on a tutorial)
 + Full Quantum Circuit (CPW w/ GND Planes, Resonator, transmon). I was able to find compatible eigenfrequencies at specific geometries. The most compatible in my case is 5.15 GHz as you will see in my results. PS it had a reasonable Q value of ~270. Not bad! 
