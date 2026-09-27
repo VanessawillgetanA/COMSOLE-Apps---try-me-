@@ -9,6 +9,8 @@
 **Project 3:** (Original - NOT based on a tutorial)
 + Full Quantum Circuit (CPW w/ GND Planes, Resonator, transmon). I was able to find compatible eigenfrequencies at specific geometries. The most compatible in my case is 5.15 GHz as you will see in my results. PS it had a reasonable Q value of ~270. Not bad! 
 + **APP 3**: This was provided with my temporary access to COMSOLE http://localhost:2047/webbridge/comsol
+<img width="1573" height="920" alt="Screenshot 2026-09-27 003951" src="https://github.com/user-attachments/assets/5fead8e9-30f6-427a-9778-daddac3b9d0f" />
+
 
 ### IMPORTANT:
 + if you want to access the links successfully, you **MUST** download my files and keep them open **SIMULTANEOUSLY**.
